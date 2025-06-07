@@ -9,15 +9,15 @@ We used **TensorFlow** and **Keras** to design and train a neural network and im
 ---
 
 ## Project Structure
-deep-learning-challenge/
-│
-├── AlphabetSoupCharity.ipynb                # Initial model development
-├── AlphabetSoupCharity_Optimization.ipynb   # Optimized deep learning model
-├── AlphabetSoupCharity.h5                   # Saved initial model weights
-├── AlphabetSoupCharity_Optimization.h5      # Saved optimized model weights
-├── charity_data.csv                         # Original dataset
-├── README.md                                # Project documentation
-└── AlphabetSoupCharity_report.md            # Final written report
+| File Name                                | Description                                   |
+| ---------------------------------------- | --------------------------------------------- |
+| `AlphabetSoupCharity.ipynb`              | Initial deep learning model development       |
+| `AlphabetSoupCharity_Optimization.ipynb` | Optimized model with improved performance     |
+| `AlphabetSoupCharity.h5`                 | Saved model weights for the initial model     |
+| `AlphabetSoupCharity_Optimization.h5`    | Saved model weights for the optimized model   |
+| `charity_data.csv`                       | Original dataset provided by Alphabet Soup    |
+| `README.md`                              | Project overview and instructions             |
+| `AlphabetSoupCharity_report.md`          | Final written report with results and summary |
 
 ---
 
